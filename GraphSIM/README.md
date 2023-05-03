@@ -4,7 +4,7 @@ GraphSIM.m is the function to generate the original GraphSIM scores.
 
 GraphSIM_jnd.m is the function to generate the scores from GraphSIM improved with NPM.
 
-Notice the GraphSIM method needs to resample the reference point cloud first, you can use the code provided in the directory fast_sampling.
+Notice the GraphSIM method needs to resample the reference point cloud first, you can use the code provided in the directory ##fast_sampling##.
 
 ##### Reference of GraphSIM
 
